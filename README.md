@@ -15,3 +15,4 @@ npx skills add kasseika/agent-skills
 | スキル | 内容 |
 |---|---|
 | [kasseika-slides](skills/kasseika-slides/SKILL.md) | 地活研名義のスライド・発表資料のブランド規約（ロゴ・色・フォント・レイアウト・出典の書き方） |
+| [drive-inbox-collect](skills/drive-inbox-collect/SKILL.md) | マイドライブ直下のファイルを「共有／個人／ゴミ箱」に仕分け、承認したものを共有ドライブの inbox へ移す |
